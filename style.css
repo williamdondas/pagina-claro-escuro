@@ -1,0 +1,121 @@
+.corfundo1{
+    background-color: white;
+    height: 800px;
+    transition: 0.5s;
+    
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    
+}
+
+.cortitulo1{
+    margin-top: -7px;
+    height: 80px;
+    background-color: beige;
+    padding-top: 30px;
+    color: black;
+    font-size: 2.5em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 3px;
+    
+}
+
+
+
+.cortitulo2{
+    margin-top: -7px;
+    height: 80px;
+    padding-top: 30px;
+    color:white;
+    font-size: 2.5em;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.paragrafo{
+    background-color: beige;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+}
+
+.paragrafo2{
+    background-color: rgb(68, 64, 64);
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    color:white;
+}
+
+.botao1{
+    background-color:black;
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-size: 0.7em;
+    width: 65px;
+    height: 50px;
+    transition: 0.2s;
+    
+    
+}
+
+.corfundo2{
+    background-color: rgb(32, 32, 32);
+    height: 800px;
+    transition: 0.5s;
+    
+}
+
+.botao2{
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    border-color: white;
+    border: none;
+    font-size: 0.7em;
+    width: 65px;
+    height: 50px;
+    transition: 0.2s;
+    
+    
+
+}
+
+.botao3{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-color: white;
+    border: none;
+    width: 65px;
+    height: 50px;
+    transition: 0.2s;
+    
+}
+
+.rodape1{
+    margin-top: 30px;
+    text-align: center;
+    height: 100px;
+    background-color: beige;
+    color:black;
+    padding-top: 70px;
+}
